@@ -1,0 +1,27 @@
+//Variables
+
+//headNum - total head
+//tailNum - total tails
+
+
+//head - img
+//tail - img
+//let head = document.querySelector(...)
+
+//headsPerc
+//tailsPerc
+
+
+//Function to determine the flip
+
+random number (0,1)
+
+
+Buttons for flip/clear
+
+Images
+	heads
+	tails
+	
+Table with cells for head, heads %, tails, tails %, with beginning values of 0
+
